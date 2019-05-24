@@ -25,5 +25,6 @@
   <modules>
     <module>ModuleB</module>
     <module>ModuleC</module>
+    <module>ModuleD</module>
   </modules>
 </project>
